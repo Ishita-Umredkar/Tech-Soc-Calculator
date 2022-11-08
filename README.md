@@ -1,0 +1,1 @@
+# Tech-Soc-Calculator
