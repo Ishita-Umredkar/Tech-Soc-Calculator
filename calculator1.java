@@ -57,7 +57,7 @@ public class calculator1 {
 
     public static void main(String args[]) {
         Scanner sc = new Scanner(System.in);
-        System.out.println("HELLO, I AM CALCULATOR");
+        System.out.println("Calculator");
         for(int i=1;;i++) {
             System.out.println("Select your Operator");
             System.out.println("\n1 - Add");
